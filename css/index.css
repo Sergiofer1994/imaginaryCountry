@@ -1,0 +1,9 @@
+body{
+background-color: aquamarine;
+}
+.bandera {
+    width: 150px;
+    height: 100x;
+    border: 5px solid black;
+    border-radius: 25px;
+}
